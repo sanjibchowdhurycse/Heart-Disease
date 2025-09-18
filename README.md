@@ -54,6 +54,9 @@ To understand feature relationships and dataset structure, we performed explorat
 ![PCA projection](pca_visualization.png)  
 *Figure 2: 2D PCA projection of the dataset*  
 
+![Pairplot](pairplot_features.png)
+*Figure 3: Pairwise feature relationships*
+
 ---
 
 ## ⚙️ Methodology  
