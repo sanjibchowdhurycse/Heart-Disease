@@ -82,7 +82,15 @@ Both classifiers were trained on the training set and evaluated on the test set 
 
 ### 🔹 Comparison Plot  
 
-![Metrics Comparison](model_metrics_comparison.png)  
+![Metrics Comparison](model_metrics_comparison.png) 
+
+### 🔹 Confusion matrix of Naive-Bayes 
+
+![Naive-Bayes confusion matrix](confusion_matrix_nb.png)
+
+
+### 🔹 Confusion matrix of Logistic-Regression
+![Logistic regression confusion matrix](confusion_matrix_lr.png)
 
 **Conclusion:**  
 Logistic Regression **outperformed Naive Bayes** across all metrics, making it the preferred model. Its higher accuracy and ability to handle correlated features led to more reliable predictions. PCA visualization further highlighted class separability in the dataset.  
